@@ -1,0 +1,8 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LewAndrade/express-api.git",
+  "author": "Lew Andrade <andrade.lew@gmail.com>",
+  "license": "MIT"
+}
